@@ -1,4 +1,4 @@
-package com.coffee.cTT;
+/*package com.coffee.CBA;
 
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
@@ -51,14 +51,4 @@ public class SpaceHelmet {
         PersistentDataContainer container = meta.getPersistentDataContainer();
         return container.has(spaceHelmetKey, PersistentDataType.BYTE);
     }
-
-    @EventHandler
-    public void preventPlace(BlockPlaceEvent e) {
-        Player player = e.getPlayer();
-        ItemStack item = player.getInventory().getItemInMainHand();
-
-        if (isDesiredItem(item, player)) {
-            e.setCancelled(true);
-        }
-    }
-}
+}*/

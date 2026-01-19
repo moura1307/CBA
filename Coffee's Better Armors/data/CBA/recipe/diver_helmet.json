@@ -89,7 +89,8 @@
         "equip_sound": "minecraft:ambient.underwater.enter",
         "camera_overlay": "minecraft:block/tinted_glass",
         "allowed_entities": "minecraft:player"
-      }
+      },
+      "minecraft:max_stack_size": 1
     },
     "count": 1,
     "id": "minecraft:tinted_glass"

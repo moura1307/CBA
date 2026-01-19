@@ -1,7 +1,7 @@
-name: CTT
+name: CBA
 version: '1.0-SNAPSHOT'
-main: com.coffee.cTT.CTT
+main: com.coffee.CBA.CBA
 api-version: '1.21'
-prefix: CTT
+prefix: CBA
 authors: [ Coffee1307 ]
-description: Coffee's Trinkets and Toys delivers a fresh arsenal of exciting items to experiment and tinker with!
+description: Coffee's Better Armors delivers a fresh arsenal of exciting new armors to experiment and fight with!
